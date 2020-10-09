@@ -2,6 +2,8 @@ github.com/BurntSushi/xgb v0.0.0-20201008132610-5f9e7b3c49cd h1:u7K2oMFMd8APDV3f
 github.com/BurntSushi/xgb v0.0.0-20201008132610-5f9e7b3c49cd/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/esimov/stackblur-go v1.0.0 h1:PuXWrQ16VIh6Di+tn3CpKAyzkIIECo9DPGVecrzyDGc=
 github.com/esimov/stackblur-go v1.0.0/go.mod h1:a3zzeKuJKUpCcReHmEsuPaEnq42D2b/bHoCI8UjIuMY=
+github.com/esimov/stackblur-go v1.0.1-0.20200910180425-48dc72a3299e h1:EjC+igHWzmspji4AfeD6Tu6NDwWr4GlYDLIIF7i4XEw=
+github.com/esimov/stackblur-go v1.0.1-0.20200910180425-48dc72a3299e/go.mod h1:a3zzeKuJKUpCcReHmEsuPaEnq42D2b/bHoCI8UjIuMY=
 github.com/gen2brain/shm v0.0.0-20200228170931-49f9650110c5 h1:Y5Q2mEwfzjMt5+3u70Gtw93ZOu2UuPeeeTBDntF7FoY=
 github.com/gen2brain/shm v0.0.0-20200228170931-49f9650110c5/go.mod h1:uF6rMu/1nvu+5DpiRLwusA6xB8zlkNoGzKn8lmYONUo=
 github.com/kbinani/screenshot v0.0.0-20191211154542-3a185f1ce18f h1:5hWo+DzJQSOBl6X+TDac0SPWffRonuRJ2///OYtYRT8=
